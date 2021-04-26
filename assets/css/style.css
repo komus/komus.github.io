@@ -56,12 +56,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: #936CAF;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #936CAF;
   color: #fff;
 }
 
@@ -130,7 +130,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #936CAF;
 }
 
 .mb-30 {
@@ -151,7 +151,7 @@ p {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #b8a07e;
+  background: #936CAF;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -257,7 +257,7 @@ p {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #b8a07e;
+  color: #936CAF;
 }
 
 .navbar .dropdown ul {
@@ -289,7 +289,7 @@ p {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #b8a07e;
+  color: #936CAF;
 }
 
 .navbar .dropdown:hover > ul {
@@ -383,7 +383,7 @@ p {
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #b8a07e;
+  color: #936CAF;
 }
 
 .navbar-mobile .getstarted {
@@ -415,7 +415,7 @@ p {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #b8a07e;
+  color: #936CAF;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -426,7 +426,7 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-    background: url("../img/home-bg.jpg") repeat scroll center center/cover;
+    background: url("../img/home.png") repeat scroll center center/cover;
     height: 100vh;
     width: 100%;
 }
@@ -538,19 +538,19 @@ p {
 }
 
 #about .div-img-bg {
-  padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+      padding-bottom: 0px;
+    border: 20px solid #936CAF;
 }
 
-#about .div-img-bg .about-img img {
-  width: 100%;
-  box-shadow: 0px 0px 85px 0px rgba(0, 0, 0, 0.14);
-  margin-top: -60px;
-  margin-left: 40px;
-  height: 400px;
-  -o-object-fit: cover;
-  object-fit: cover;
-}
+    #about .div-img-bg .about-img img {
+        width: 100%;
+        box-shadow: 0px 0px 85px 0px rgb(0 0 0 / 14%);
+        margin-top: 1px;
+        margin-left: 1px;
+        height: 477px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
 
 #about .about-descr .p-heading {
   font-family: 'Playfair Display', serif;
@@ -592,7 +592,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #936CAF;
   line-height: 44px;
 }
 
@@ -606,11 +606,11 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid #936CAF;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #936CAF;
 }
 
 /*--------------------------------------------------------------
@@ -644,7 +644,7 @@ p {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #936CAF;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -686,7 +686,7 @@ p {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: #936CAF;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
@@ -723,11 +723,11 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid #936CAF;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #936CAF;
 }
 
 .portfolio-details .portfolio-info {
@@ -813,7 +813,7 @@ p {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #936CAF;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -960,7 +960,7 @@ p {
 }
 
 .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #936CAF;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1044,7 +1044,7 @@ blockquote {
   background-color: #f2f2f2;
   margin: 30px 0;
   border: none;
-  border-left: 4px solid #b8a07e;
+  border-left: 4px solid #936CAF;
 }
 
 /*--------------------------------------------------------------
@@ -1083,7 +1083,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: #936CAF;
   transition: all 0.5s ease-in-out 0s;
 }
 
