@@ -51,17 +51,17 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color: #000009;
   line-height: 28px;
 }
 
 ::-moz-selection {
-  background: #936CAF;
+  background: #1B0A37;
   color: #fff;
 }
 
 ::selection {
-  background: #936CAF;
+  background: #1B0A37;
   color: #fff;
 }
 
@@ -130,7 +130,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #936CAF;
+  background: #1B0A37;
 }
 
 .mb-30 {
@@ -151,7 +151,7 @@ p {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #936CAF;
+  background: #1B0A37;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -257,7 +257,7 @@ p {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #936CAF;
+  color: #1B0A37;
 }
 
 .navbar .dropdown ul {
@@ -289,7 +289,7 @@ p {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #936CAF;
+  color: #1B0A37;
 }
 
 .navbar .dropdown:hover > ul {
@@ -383,7 +383,7 @@ p {
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #936CAF;
+  color: #1B0A37;
 }
 
 .navbar-mobile .getstarted {
@@ -415,7 +415,7 @@ p {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #936CAF;
+  color: #1B0A37;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -426,7 +426,7 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-    background: url("../img/home.png") repeat scroll center center/cover;
+    background: url("../img/home-bg.jpg") repeat scroll center center/cover;
     height: 100vh;
     width: 100%;
 }
@@ -445,7 +445,7 @@ p {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color: #1B0A37;
 }
 
 .hero-content p {
@@ -454,7 +454,7 @@ p {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color: #000;
   font-weight: 500;
 }
 
@@ -539,7 +539,7 @@ p {
 
 #about .div-img-bg {
       padding-bottom: 0px;
-    border: 20px solid #936CAF;
+    border: 20px solid #1B0A37;
 }
 
     #about .div-img-bg .about-img img {
@@ -592,7 +592,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: #936CAF;
+  color: #1B0A37;
   line-height: 44px;
 }
 
@@ -606,11 +606,11 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #936CAF;
+  border: 1px solid #1B0A37;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #936CAF;
+  background-color: #1B0A37;
 }
 
 /*--------------------------------------------------------------
@@ -644,7 +644,7 @@ p {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #936CAF;
+  color: #1B0A37;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -675,7 +675,7 @@ p {
 }
 
 #portfolio .portfolio-item .portfolio-info p {
-  color: #999;
+  color: #000;
   font-size: 14px;
   margin: 0;
   padding: 0;
@@ -686,7 +686,7 @@ p {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #936CAF;
+  color: #1B0A37;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
@@ -723,11 +723,11 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #936CAF;
+  border: 1px solid #1B0A37;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #936CAF;
+  background-color: #1B0A37;
 }
 
 .portfolio-details .portfolio-info {
@@ -813,7 +813,7 @@ p {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #936CAF;
+  color: #1B0A37;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -960,7 +960,7 @@ p {
 }
 
 .journal-txt h4 a:hover {
-  color: #936CAF;
+  color: #1B0A37;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1044,7 +1044,7 @@ blockquote {
   background-color: #f2f2f2;
   margin: 30px 0;
   border: none;
-  border-left: 4px solid #936CAF;
+  border-left: 4px solid #1B0A37;
 }
 
 /*--------------------------------------------------------------
@@ -1083,7 +1083,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #936CAF;
+  color: #1B0A37;
   transition: all 0.5s ease-in-out 0s;
 }
 
